@@ -27,4 +27,4 @@ Currently learning C and the fundamentals of web development while building smal
 
 ---
 
-Contact: [as.ayushh1@gmail.com](mailto:as.ayushh1@gmail.com)
+Contact: [sinhaayush225@gmail.com](mailto:sinhaayush225@gmail.com)
