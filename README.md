@@ -2,7 +2,7 @@
 
 # Hey, I'm Ayush Sinha 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;TypeScript+%7C+Node.js+%7C+MongoDB;Building+real+projects+from+scratch)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;JavaScript+%7C+Node.js+%7C+MongoDB;Building+real+projects+from+scratch)](https://git.io/typing-svg)
 
 </div>
 
