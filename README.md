@@ -1,30 +1,67 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=1E90FF&center=true&width=500&height=80&lines=Ayush+Sinha" alt="Ayush Sinha Typing"/>
-</p>
+<div align="center">
 
-Hi, I'm Ayush — a first-year B.Tech Computer Science student exploring programming and web development.  
-Currently learning C and the fundamentals of web development while building small projects to strengthen my understanding.
+# Hey, I'm Ayush Sinha 👋
 
-### About Me
-- Exploring programming, algorithms, and computer systems  
-- Learning frontend development with HTML, CSS, and JavaScript  
-- Comfortable with C, basic web dev tools, and Linux environments  
-- Interested in systems programming, open source, and backend development  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;TypeScript+%7C+Node.js+%7C+MongoDB;Building+real+projects+from+scratch)](https://git.io/typing-svg)
 
-### Languages & Skills
-[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=axayush&show_icons=true&theme=default&hide_title=true)
-
-### Currently
-- Improving problem-solving skills with C  
-- Building small projects to strengthen core concepts  
-- Learning Git, version control, and collaborative workflows  
+</div>
 
 ---
 
-Contact: [sinhaayush225@gmail.com](mailto:sinhaayush225@gmail.com)
+### About Me
+
+- 🎓 B.Tech CSE @ RKGIT, Ghaziabad (2nd year)
+- 🛠️ Building full-stack apps with **TypeScript, Node.js & MongoDB**
+- 🌱 Currently deep-diving into **Node.js & backend development**
+- 🎯 Goal: Land a paid software internship through consistent building
+- 📫 Reach me at **[ayuhsinha.me](https://ayuhsinha.me)** · [@ayushcodingz](https://x.com/ayushcodingz)
+
+---
+
+### 🧰 Tech Stack
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asxayush&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asxayush&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=asxayush&theme=github-dark-blue&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=asxayush&color=58A6FF&style=flat-square&label=Profile+Views)
+
+</div>
