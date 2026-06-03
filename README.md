@@ -21,7 +21,6 @@
 
 **Frontend**
 
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,7 +52,17 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=asxayush&theme=github-dark-blue&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=asxayush&theme=github-dark-blue&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+### 📈 Commit Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asxayush&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true"/>
 
 </div>
 
