@@ -2,7 +2,7 @@
 
 # Hey, I'm Ayush Sinha 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MERN-Stack+Web+Developer;Express.js+%7C+Node.js+%7C+MongoDB+%7C+React;Building+real+world+projects+from+scratch)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=FULL-Stack+Developer;MongoDB+%7C+Express.js+%7C+React+%7C+Node.js;Building+real+world+projects+from+scratch)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 -  B.Tech CSE @ RKGIT, Ghaziabad (2nd year)
 -  Building full-stack apps with **JavaScript, Node.js & MongoDB**
--  Currently deep-diving into **Node.js & backend development**
+-  Currently deep-diving into **learning advance concepts of backend**
 -  Reach me at [@ayushcodingz](https://x.com/ayushcodingz)
 
 ---
