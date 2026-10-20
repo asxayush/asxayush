@@ -12,7 +12,7 @@
 
 -  B.Tech CSE @ RKGIT, Ghaziabad (2nd year)
 -  Building full-stack apps with **JavaScript, Node.js & MongoDB**
--  Currently deep-diving into **learning advance concepts of backend**
+-  Currently building  **advanced projects**
 -  Reach me at [@ayushcodingz](https://x.com/ayushcodingz)
 
 ---
