@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Ayush Sinha 
+# Hey, I'm Ayush 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=FULL-Stack+Developer;MongoDB+%7C+Express.js+%7C+React+%7C+Node.js;Building+real+world+projects+from+scratch)](https://git.io/typing-svg)
 
